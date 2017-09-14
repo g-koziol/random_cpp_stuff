@@ -1,4 +1,9 @@
 /**
+ * Author:    Grzegorz Kozioł
+ * Created:   14.09.2017
+ **/
+ 
+/**
     Input data : File with the configuration of matrix of dimensions MxN with integers representing some resources.
     Task:
     - Starting at [0,0] and ending in [M-1 x N-1]
